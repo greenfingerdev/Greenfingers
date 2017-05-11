@@ -1,32 +1,52 @@
-
-GreenFingers development tree
-
-GreenFingers is a PoS-based cryptocurrency.
-
-Development process
-===========================
-
-Developers work in their own trees, then submit pull requests when
-they think their feature or bug fix is ready.
-
-The patch will be accepted if there is broad consensus that it is a
-good thing.  Developers should expect to rework and resubmit patches
-if they don't match the project's coding conventions (see coding.txt)
-or are controversial.
-
-The master branch is regularly built and tested, but is not guaranteed
-to be completely stable. Tags are regularly created to indicate new
-stable release versions of GreenFingers.
-
-Feature branches are created when there are major new features being
-worked on by several people.
-
-From time to time a pull request will become outdated. If this occurs, and
-the pull is no longer automatically mergeable; a comment on the pull will
-be used to issue a warning of closure. The pull will be closed 15 days
-after the warning if action is not taken by the author. Pull requests closed
-in this manner will have their corresponding issue labeled 'stagnant'.
-
-Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be 
-labeled 'stale'.
+[center][img=https://preview.ibb.co/cK5c0k/wallet_logo_png.png][/center]
+[center] [/center]
+[center] [/center]
+[center][color=#339933][img=https://image.ibb.co/mamLmQ/Cool_Text_Coin_Info_243651672366061.png][/color][/center]
+[center] [/center]
+[center] [/center]
+[center][color=#339933]Name - Green Fingers[/color][/center]
+[center][color=#339933]Ticker - GREENF[/color][/center]
+[center][color=#339933]Algo - Scrypt Pow / Pos[/color][/center]
+[center][color=#339933]Block Reward - 10[/color][/center]
+[center][color=#339933]Last POW Block - 10000[/color][/center]
+[center][color=#339933]Pos % 35[/color][/center]
+[center][color=#339933]Block Time - 75 Secs[/color][/center]
+[center][color=#339933]Premine - 19% For Fundraising For Charity  / Bountys /  Airdrops /  etc[/color][/center]
+[center][color=#339933]Tx Confirms - 10 Blocks[/color][/center]
+[center][color=#339933]Block Confirm - 20 Blocks[/color][/center]
+[center][color=#339933]Rpc Port - 17806[/color][/center]
+[center][color=#339933]Total Coins - 5121951[/color][/center]
+   
+[center] [/center]
+[center][color=#339933]Addnode=94.23.217.166[/color][/center]
+[center][color=#339933]Addnode=151.80.136.178[/color][/center]
+[center] [/center]
+[center][color=#339933]We have made this coin to Help a charity called Green fingers[/color][/center]
+[center][color=#339933]we hope it will help the charity and help the Children Below is a little about the charity[/color][/center]
+[center] [/center]
+[center][color=#339933]Greenfingers Charity is dedicated to supporting the children who use hospices around the UK, along with their families, by creating beautiful, well-designed outdoor spaces for children to enjoy with family, friends and siblings, whether through play and fun, or therapeutic rest and relaxation.  To date, Greenfingers Charity has created  51 inspiring gardens and outdoor spaces in hospices around the country and has a further waiting list of hospices that need our help now[/color][/center]
+[center] [/center]
+[center][color=#339933]We will be donating to them as much as we can ![/color][/center]
+[center] [/center]
+[center] [/center]
+[center][color=#339933][img=https://image.ibb.co/cK1xY5/Cool_Text_Wallets_243651234359111.png][/color][/center]
+[center] [/center]
+[center] [/center]
+[center][color=#339933][u][size=5]Windows [/size][/u][/color][/center]
+[center] [/center]
+[center][color=#339933][url=https://mega.nz/#!svIWmIBJ!vCk31eFStVyGgeltx-aLzPT9wU24tZy-zkfUX4J6xAc]https://mega.nz/#!svIWmIBJ!vCk31eFStVyGgeltx-aLzPT9wU24tZy-zkfUX4J6xAc[/url][/color][/center]
+[center] [/center]
+[center] [/center]
+[center][color=#339933]Linux & Source code to be added soon ! [/color][/center]
+[center] [/center]
+[center][img=https://image.ibb.co/fL5rt5/Cool_Text_Pools_243651472547187_1.png][/center]
+[center] [/center]
+[center]TBC[/center]
+[center][color=#339933][img=https://preview.ibb.co/ckvfmQ/Cool_Text_Block_Explorers_243651292886852.png][/color][/center]
+[center] [/center]
+[center] [/center]
+[center][color=#339933][url=http://blockexp.com:9020/]http://blockexp.com:9020/[/url][/color][/center]
+[center] [/center]
+[center][color=#339933][img=https://image.ibb.co/mrk7Y5/Cool_Text_Exchanges_243651553634710.png][/color][/center]
+[center] [/center]
+[center][color=#339933]TBA[/color][/center]
