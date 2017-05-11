@@ -1,0 +1,9 @@
+Building GreenFingers
+
+See doc/readme-qt.rst for instructions on building GreenFingers QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GreenFingers.
+
+See doc/build-*.txt for instructions on building greenfingersd,
+the intended-for-services, no-graphical-interface, reference
+implementation of GreenFingers.
